@@ -11,7 +11,7 @@
   - Web , API
 - Tools
   - Adobe ( PhotoShop / Illustrator / XD / Indesign ) ,  Figma , Sketch
-## Language/Framework
+## Language / Framework
 - JavaScript
   - express , Vue.js / Nuxt.js
 - TypeScript
