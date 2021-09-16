@@ -18,3 +18,4 @@
 - HTML / CSS / SCSS / SASS
 - Python
 - SQL
+- C/C++
