@@ -16,6 +16,5 @@
   - express , Vue.js / Nuxt.js
 - TypeScript
 - HTML / CSS / SCSS / SASS
-- Python
 - SQL
 - C/C++
