@@ -17,4 +17,4 @@
 - TypeScript
 - HTML / CSS / SCSS / SASS
 - SQL
-- C/C++
+- C / C++
