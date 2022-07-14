@@ -13,7 +13,7 @@
   - Adobe ( PhotoShop / Illustrator / XD / Indesign ) ,  Figma , Sketch
 ## 📚&ensp;Language / Framework
 - JavaScript
-  - express , Vue.js / Nuxt.js
+  - express , Vue.js / Nuxt.js , React.js / Next.js
 - TypeScript
 - HTML / CSS / SCSS / SASS
 - SQL
